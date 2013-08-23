@@ -14,7 +14,7 @@ using Android.Webkit;
 
 namespace BlackBox
 {
-    [Activity(Label = "My Activity", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "╨зо╩вс", MainLauncher = true, Icon = "@drawable/icon")]
     public class ActivityMain : Activity
     {
         const string html = @"
